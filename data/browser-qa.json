@@ -1,0 +1,18 @@
+{
+  "checks": [
+    "11 chapter cards",
+    "54 page options",
+    "search returns pages",
+    "final page title",
+    "next disabled",
+    "absolute image urls",
+    "reject missing links",
+    "book has 11 links",
+    "no overflow 1440",
+    "no overflow 768",
+    "no overflow 390",
+    "local file reading",
+    "no javascript errors"
+  ],
+  "errors": []
+}
